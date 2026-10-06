@@ -1,1 +1,4 @@
 .Tilux/images/
+.Tilux/__pycache__/
+__pycache__/
+*.pyc
