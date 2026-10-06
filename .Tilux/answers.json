@@ -1,0 +1,13 @@
+{
+  "brand_name": "Fresh & Reddy",
+  "project_type": "Multipage marketing website",
+  "industry": "Office coffee, tea and pantry supply",
+  "tagline": "Make bad office coffee a thing of the past",
+  "tech_stack": "Static HTML5, CSS3, vanilla ES6",
+  "theme": "Dark mode, Brand Red #e53935 accent",
+  "primary_cta": "Book a free trial",
+  "secondary_cta": "Our services",
+  "pages": ["Home", "About", "Coffee Tasting", "Services", "Equipment", "Culture", "Contact Us"],
+  "homepage_model": "Full-viewport hero carousel, 5 slides",
+  "positioning": "Premium artisanal office beverage service with a rebellious edge"
+}
